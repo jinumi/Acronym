@@ -2,7 +2,7 @@
 # Made in P A K I S T A N
 
 # Prompt the user to enter a string
-text = str(input("Enter a String\n"))
+text = str(input("Enter a Term ::\n"))
 
 # Split the input string into a list of words
 text = text.split()
