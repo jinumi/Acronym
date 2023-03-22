@@ -15,7 +15,7 @@ def get_acronym():
 # Create the main window
 window = tk.Tk()
 window.title("Acronym")
-window.iconbitmap("C:/Users/umair/OneDrive/Desktop/logo.ico")
+window.iconbitmap("logo.ico")
 window.resizable(False, False)
 window.geometry("400x400")
 
