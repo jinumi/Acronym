@@ -1,21 +1,27 @@
 # Acronym Generator
 
-This script prompts the user to enter a string, splits the string into a list of words, and generates an acronym by taking the first character of each word. 
+This is a simple Python program that generates an acronym from a user-specified term. The program is built using the `tkinter` module for Python, which provides an easy-to-use graphical user interface.
 
-## Usage
+## How to Use
 
-1. Run the script
-2. Enter a term when prompted
-3. The script will output the generated acronym
+To use the program, simply enter a term in the input box and click the "Create" button. The program will generate an acronym from the term and display it in the output box.
 
-## Example
+## Requirements
 
-### Input:
-Enter a Term ::
-United Nations Educational, Scientific and Cultural Organization
+This program requires Python 3.x and the `tkinter` module, which is included with most Python distributions.
 
-### Output:
-UNESCO
+## Installation
 
+To install the program, simply clone the GitHub repository:
 
-This script was designed and developed by Muhammad Umair Yaqub and made in Pakistan.
+git clone https://github.com/<your_username>/acronym-generator.git
+Then, navigate to the directory containing the program and run the acronym_generator.py file:
+
+cd acronym-generator
+python acronym_generator.py
+
+# License
+This program is licensed under the MIT License. See the LICENSE file for more information.
+
+# Output
+![Output](Output.png "Output")
