@@ -14,7 +14,7 @@ This program requires Python 3.x and the `tkinter` module, which is included wit
 
 To install the program, simply clone the GitHub repository:
 
-git clone https://github.com/<your_username>/acronym-generator.git
+git clone https://github.com/jinumi/Acronym.git
 Then, navigate to the directory containing the program and run the acronym_generator.py file:
 
 cd acronym-generator
